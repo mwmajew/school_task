@@ -7,12 +7,12 @@
 # - get students average score in class
 # - hold students name and surname
 # - Count total attendance of student
-# The default interface for interaction should be python interpreter.
+#
 # Please, use your imagination and create more functionalities.
-# Your project should be able to handle entire school.
+# Your project should be able to handle entire school(s?).
 # If you have enough courage and time, try storing (reading/writing)
 # data in text files (YAML, JSON).
-# If you have even more courage, try implementing user interface.
+# If you have even more courage, try implementing user interface (might be text-like).
 #
 #Try to expand your implementation as best as you can. 
 #Think of as many features as you can, and try implementing them.
